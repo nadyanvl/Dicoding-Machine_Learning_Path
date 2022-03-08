@@ -11,4 +11,4 @@ Learning Path **Mechine Learning Developer** ini didapatkan dari program beasisw
 ## Submission
 
 * [Belajar Machine Learning untuk Pemula](https://github.com/nadyanvl/Dicoding-Machine_Learning_Path/tree/main/Belajar%20Machine%20Learning%20untuk%20Pemula)
-* [Belajar Pengembangan Machine Learning](https://github.com/nadyanvl/)
+* [Belajar Pengembangan Machine Learning](https://github.com/nadyanvl/Dicoding-Machine_Learning_Path/tree/main/Belajar%20Pengembangan%20Machine%20Learning)
