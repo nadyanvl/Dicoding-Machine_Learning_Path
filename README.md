@@ -1,2 +1,2 @@
-# Dicoding-Machine_Learning_Path
+# Dicoding Machine Learning Path
 Submission Dicoding Machine Learning Path
